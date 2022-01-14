@@ -34,7 +34,7 @@ class Naruto_Game:
 
 Naruto = Naruto_Game("Naruto3''.png")
 
-Obstacle = [Naruto_Game("Fire'.png"), Naruto_Game("Kakashi'.png"), Naruto_Game("Kakashi''.png"),Naruto_Game("Katsuyu''.png"), Naruto_Game("Sasuke+Trash'.png"),
+Obstacle = [Naruto_Game("Fire'.png"), Naruto_Game("Kakashi'.png"), Naruto_Game("Kakashi''.png"),Naruto_Game("Katsuyu''.png"), Naruto_Game("Sasuke+Sakura'.png"),
            Naruto_Game("Shuriken1'.png"), Naruto_Game("Gaara'.png"), Naruto_Game("Orochimaru'.png")]
 
 speed = 3.0
